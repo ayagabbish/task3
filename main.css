@@ -1,0 +1,17 @@
+.head{
+    height:100vh;
+    background-image: url(image.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.ex{
+    border: 2px black solid;
+    background-color: red;
+    text-align: center;
+    height: 300px;
+}
+.ex img{
+    float: left;
+    height: 100%;
+}
